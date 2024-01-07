@@ -25,3 +25,4 @@ mvnw.cmd
 
 ### VS Code ###
 !/src/main/resources/application.yaml
+/src/main/resources/application.yaml
